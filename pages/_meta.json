@@ -19,6 +19,25 @@
   "talismans": "Талисманы",
   "voice_chat": "Голосовой чат",
   "warps": "Варпы",
+  "account_security": "Безопасность"    
   "weapons": "Кастомные оружия",
-  "test": "Все виды редактирования текста"
+  "enchantments_main": "Зачарования (Главная)"
+  "book_web": "Паутина"
+  "book_scout": "Скаут"
+  "book_plavka": "Авто-плавка"
+  "book_reference": "Возвращение"
+  "jumper": "Попрыгун"
+  "book_pinger": "Пингер"
+  "book_magnit": "Магнит"
+  "book_lavaxod": "Лаваход"
+  "book_maxexp": "Опытный"
+  "book_okislenie": "Окисление"
+  "book_sniper": "Снайпер"
+  "book_stun": "Cтупор"
+  "money_scam": "Обман"
+  "money_raids": "Рейды"
+  "design": "Дизайн"
+  "casino": "Казино"
+  "syncronization": "Синхронизация"
+  "money_auction": "Заработок Аукциона"
 }
